@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+   
+    
+}
+.h1{
+    background-color: brown;
+    padding: 30px;
+    font-size: 50px;
+    color: White;
+}
+
+.h2{ background-color: brown;
+    color: white;
+    padding: 14px 7px;
+
+}
+.Buffalo{
+    padding: 50px;
+    margin:10px;
+    display: inline-block;
+    background-color: gray;
+    color: white;
+}
+.Recipe{
+    text-align:Left;
+}
+.sub-heading{
+    text-align: left;
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
